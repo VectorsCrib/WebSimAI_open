@@ -3,6 +3,8 @@
 
 Using Lm-Studio with this model "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF", I was able to get a decent output.
 
-To run type `main.py lmstudio` and navigate to `http://127.0.0.1:5000` in your browser.
+# Instructions:
+1. ```pip3 install -r requirements.txt```
+2. To run type `main.py lmstudio` and navigate to `http://127.0.0.1:5000` in your browser.
 BAM! You should see the web interface.
 Enjoy if you got issues let me know please...
