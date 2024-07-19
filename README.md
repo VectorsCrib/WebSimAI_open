@@ -10,7 +10,7 @@ BAM! You should see the web interface.
 Enjoy if you got issues let me know please...
 
 
-#Docker:
+# Docker:
 
 Environment Variables for Initialization:
 It is recommend to use environment variables to initialize the following parameters when using lm-studio:
