@@ -15,7 +15,7 @@ As the owner of this repo I dont know docker. But dont let my lack of knowledge 
 Environment Variables for Initialization:
 
 1. ```API_URL```: The URL for the API you’re interacting with.
-2. ```API_KEY:``` Your API key for authentication.
+2. ```API_KEY```: Your API key for authentication.
 3. ```model```: The specific model you want to use.
 
 # Listening on 0.0.0.0:
